@@ -21,7 +21,7 @@ I'm a civil engineer by education, but I have a strong passion for IT and softwa
 - Project : "Capstone_powerBI_Analytics_Dashboard" - 
 - Attrition Insight : 
 - Explored the data in SQL and performed ETL in PowerBi.
-- Built the PowerBi dashboard to show the visual represent of data attrition
+- Built the PowerBi dashboard to show the visual representation of the data attrition rate
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
