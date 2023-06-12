@@ -8,7 +8,7 @@ I'm a civil engineer by education, but I have a strong passion for IT and softwa
 ## 🌱 Skills
 - Programming Languages:  Python
 - Databases: MySQL
-- Data Visualization: Power BI
+- Data Visualization: PowerBi ,Tablue
 - Data Analytics: Deep Leanrning , Machine Learning
 - Big-Data: Hadoop and Spark
 - Civil Engineering: Structural Analysis, AutoCAD
