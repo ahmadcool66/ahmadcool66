@@ -17,6 +17,11 @@ I'm a civil engineer by education, but I have a strong passion for IT and softwa
 - Bachelor of Technology (B.Tech) in Civil Engineering 
 - Diploma course in Data Science and Machine Learning
 
+## 🔭 Projects
+- Project : "Capstone_powerBI_Analytics_Dashboard" - 
+- Attrition Insight : 
+- Explored the data in SQL and performed ETL in PowerBi.
+- Built the PowerBi dashboard to show the visual represent of data attrition
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
