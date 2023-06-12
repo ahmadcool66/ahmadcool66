@@ -18,8 +18,9 @@ I'm a civil engineer by education, but I have a strong passion for IT and softwa
 - Diploma course in Data Science and Machine Learning
 
 ## 🔭 Projects
-- Project : "Capstone_powerBI_Analytics_Dashboard" - 
-- Attrition Insight : 
+- Project 1: Laptop Price Predictor.
+- project 2: Titanic Survival rate.
+- Project 3: Visual Represntation of Attrition rate : 
 - Explored the data in SQL and performed ETL in PowerBi.
 - Built the PowerBi dashboard to show the visual representation of the data attrition rate
 
