@@ -14,7 +14,8 @@ I'm a civil engineer by education, but I have a strong passion for IT and softwa
 - Civil Engineering: Structural Analysis, AutoCAD
 
 ## 🎓 Education
-- Bachelor of Technology (B.Tech) in Civil Engineering
+- Bachelor of Technology (B.Tech) in Civil Engineering 
+- Diploma course in Data Science and Machine Learning
 
 
 ## 📊 GitHub Stats
